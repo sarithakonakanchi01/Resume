@@ -5,23 +5,23 @@
 - Address:**2-218,hussain nagar(v),pedakurapadu(m),guntur(D)**
 
 ### Education Details
-####- B.tech
+#### B.tech
   -**RVR&JC College of Engineering**
   -**CSE**
   -**2019-2023**
   -**GUntur,AndhraPradesh,India**
   
-####- Intermediate
+#### Intermediate
   -**Vignan Girls Junior College**
   -**MPC**
   -**2017-2019**
   -**Palakaluru,Guntur(D)**
   
-####-SSC
+#### SSC
   -**GRCRK Sri Chaitanya H S School**
   -**2016-2017**
   -**Pedakurapadu,guntur(D)
-####-Technical Skills
+#### Technical Skills
   -**Python**
   -**Java**
   -**C**
