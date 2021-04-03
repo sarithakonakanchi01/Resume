@@ -27,3 +27,6 @@
   -**C**
   -**DBMS**
   -**Git &Git Hub**
+#### Certifications
+-Completed Python for everybody in **Coursera**
+-Certified by **Fullstack** nanodegree in **Udacity**
