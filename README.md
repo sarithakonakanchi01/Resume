@@ -28,7 +28,7 @@
   
   -**2016-2017**
   
-  -**Pedakurapadu,guntur(D)
+  -**Pedakurapadu,guntur(D)**
   
 #### Technical Skills
   -**Python**
